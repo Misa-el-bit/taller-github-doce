@@ -1,2 +1,6 @@
 linea 1
-cambios 
+cambios
+conflicto 1
+conflicto 2
+conflicto 3
+conflicto 4 
